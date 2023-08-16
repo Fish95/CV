@@ -1,12 +1,9 @@
 ## Luca Perali
 
-Born June 3, 1995
-
-Altivole, Treviso (TV), Italy (IT), CAP 31030
-
-+39 3480338098
-
-lucaperali@gmail.com
+Born June 3, 1995  
+Altivole, Treviso (TV), Italy (IT), CAP 31030  
++39 3480338098  
+lucaperali@gmail.com  
 
 # Competence 
 
