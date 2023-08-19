@@ -17,8 +17,9 @@ _2021 - now, Gorizia (IT)_
 * **Coding:** C++, Python, Django, Flask, mySQL, Virtualbox, Docker, Git/SVN
 
 ## FibonacciLab - Internship  
-_for 3 months in 2021, full-remote_
+_for 6 months in 2021, full-remote_
 
+* Worked in an international team  
 * **MSc Thesis Title:**  Applicability of Discrete Black-Box Optimization techniques to optimize an in-house developed supply chain simulator  
 * **Coding:​** Python, Bash, Git
 
